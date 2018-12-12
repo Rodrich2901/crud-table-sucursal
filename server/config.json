@@ -1,0 +1,10 @@
+{
+    "user": "rbeltran",
+    "host": "localhost",
+    "database": "cognosdb",
+    "password": "rbeltran",
+    "port": 5432,
+    "max": 10,
+    "idleTimeoutMillis": 30000
+  }
+  
